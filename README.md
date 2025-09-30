@@ -70,9 +70,6 @@ config/
 ## 🔧 Available Scripts
 
 - `npm start` - Run the app in development mode
-- `npm build` - Build the app for production
-- `npm test` - Launch the test runner
-- `npm eject` - Eject from Create React App (one-way operation)
 
 ## 🎨 State Management
 
